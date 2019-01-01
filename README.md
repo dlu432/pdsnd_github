@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2019.01.01
 
 ### Project Title
-Replace the Project Title
+Bikeshare Exploration Program
 
 ### Description
-Describe what your project is about and what it does
+This program uses python and python libraries to manipulate
+and analyze data
 
 ### Files used
-Include the files used
+bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks to Juno Lee and Richard Kalehoff.
