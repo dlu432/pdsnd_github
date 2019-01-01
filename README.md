@@ -2,7 +2,7 @@
 2019.01.01
 
 ### Project Title
-Bikeshare Exploration Program
+Bikeshare Exploration Interactive program
 
 ### Description
 This program uses python and data analysis libraries to manipulate
