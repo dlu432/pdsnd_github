@@ -198,7 +198,8 @@ def user_stats(df):
 def yesno_input(msg):
     next_items = ''
     while next_items not in ('yes', 'no'):
-        next_items = input(msg).lower()
+        next_items = input(msg)
+        next_items = next_items.lower()
     return next_items
 
 
