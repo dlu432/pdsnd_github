@@ -5,8 +5,8 @@
 Bikeshare Exploration Program
 
 ### Description
-This program uses python and python libraries to manipulate
-and analyze data
+This program uses python and data analysis libraries to manipulate
+and analyze data.
 
 ### Files used
 File list: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
