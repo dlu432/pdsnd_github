@@ -32,6 +32,7 @@ def get_filters():
     while True:
         print("\nSelect city to analyze: {}".format(city_options))
         city = input("Enter name of a city: ").lower()
+        city = city.lower()
 
         if city in CITY_DATA.keys():
             break
