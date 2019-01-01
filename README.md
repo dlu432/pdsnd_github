@@ -9,7 +9,7 @@ This program uses python and python libraries to manipulate
 and analyze data
 
 ### Files used
-bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
+File list: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Thanks to Juno Lee and Richard Kalehoff.
