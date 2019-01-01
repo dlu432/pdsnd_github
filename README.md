@@ -2,13 +2,17 @@
 2019.01.01
 
 ### Project Title
-Bikeshare
+Bikeshare Exploration Interactive program
+
 
 ### Description
-Interactive data analysis program
+This program uses python and data analysis libraries to manipulate
+and analyze data.
+
 
 ### Files used
-bikeshare.py, new_york_city.csv, washington.csv, chicago.csv
+File list: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
+
 
 ### Credits
-Thanks to Juno Lee and Richard Kalehoff
+Thanks to Juno Lee and Richard Kalehoff.
